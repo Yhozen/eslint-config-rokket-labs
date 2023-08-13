@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-rokket-labs",
+  "name": "eslint-config-drimo",
   "version": "0.4.11",
   "description": "Rokket Labs official ESLint rules for all JS/TS projects",
   "author": "Tomás Castro (tomas@rokketlabs.com)",
