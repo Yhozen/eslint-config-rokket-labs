@@ -28,5 +28,8 @@
   },
   "eslintConfig": {
     "extends": "./index.js"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

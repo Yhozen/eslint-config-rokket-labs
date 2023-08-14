@@ -1,4 +1,4 @@
 module.exports = {
   root: true,
-  extends: ['drimo/react'],
+  extends: ['drimo/next'],
 }
